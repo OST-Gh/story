@@ -1,0 +1,6 @@
+Name: Shadow-King(masc)
+Description:
+    - Demonic creature
+Background:
+    - Let loose (summoned) by a cult
+    - Wants to destroy all "good" magic

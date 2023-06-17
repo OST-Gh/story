@@ -1,0 +1,16 @@
+Name: Rose(fem)
+Description:
+    - Black hair
+    - Average height
+    - Skinny
+    - Purple eyes
+    - Pale skined
+    - Aged around 16 years old
+    - Owns a cat
+    Prefered Clothing
+        - Dark or Pale
+        ~ Unsuspiceous or specific
+        - No motives
+    Personality:
+Background:
+    - Discover magic abilities in an outburst, nearly killing two people
