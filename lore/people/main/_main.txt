@@ -4,13 +4,17 @@ Description:
     - Average height
     - Skinny
     - Purple eyes
-    - Pale skined
+    - Pale skinned
     - Aged around 16 years old
     - Owns a cat
-    Prefered Clothing
+    Preferred Clothing
         - Dark or Pale
-        ~ Unsuspiceous or specific
+        ~ Unsuspicious or specific
         - No motives
     Personality:
 Background:
     - Discover magic abilities in an outburst, nearly killing two people
+    - Mages are humans with essentially another heart on the right side, it causing them to have shorter than average breaths.
+      Normally a human would use up their life-force in order to cast magic but, this heart enables a mage to cast magic without using oneself's life-force.
+      Though this mutation is the cause for a lot of jealousy and discrimination.
+      This heart means that a mage also has two pulses and two blood circuits which can be easily detected upon closer medical inspection, yet it luckily develops in an infant child not the fetus.

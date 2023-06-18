@@ -2,6 +2,6 @@ Faction symbols:
     - Good = Octagon
     - Evil = Hexagon
     - None = Circle
-Colours:
+Colors:
     - General boarder = Green
     - No faction's territory = Purple
