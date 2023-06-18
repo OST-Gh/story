@@ -1,0 +1,3 @@
+Faction symbols:
+    - Good = Octagon
+    - Evil = Hexagon
