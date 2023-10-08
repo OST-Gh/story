@@ -2,6 +2,7 @@
 export MOD="$HOME/mod/packs/garlic/mods"
 export STORY="$HOME/story/"
 
+private origin=$PWD
 cd $STORY
 if [ ! -d mods ]; then
   mkdir mods
@@ -21,3 +22,4 @@ done
 git add -A
 git commit -qm "build update."
 git push -q
+cd $origin
