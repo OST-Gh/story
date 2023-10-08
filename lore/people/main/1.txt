@@ -1,7 +1,0 @@
-Name: Alex(unknown)
-Description:
-    - Tall and Muscular body
-    - Blond haired
-    Personality:
-        - Theraputic friend
-Background: (unknown)
