@@ -6,7 +6,7 @@ cd $STORY
 if [ ! -d mods ]; then
   mkdir mods
 else
-  rm -r mods/*
+  rm -rf mods/*
 fi
 
 for file in $MOD/*; do
