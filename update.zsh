@@ -1,5 +1,4 @@
 #!/bin/zsh
-export MOD="$HOME/mod/packs/garlic/mods"
 export STORY="$HOME/story/"
 
 git clone -q https://github.com/OST-Gh/story.git $STORY/clone
