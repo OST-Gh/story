@@ -1,5 +1,5 @@
 #!/bin/zsh
-export MOD="$HOME/mod/packs/garlic/mods"
+export MOD="$HOME/mod/packs/$PACK/mods"
 export STORY="$HOME/story/"
 
 private origin=$PWD
